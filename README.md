@@ -1,1 +1,1 @@
-![alt text](https://github.com/[Ocineysigma]/[thegameispro]/blob/[branch]/Tutorial1?raw=true)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/m3iazna" data-context="false" ><a href="//imgur.com/a/m3iazna"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
