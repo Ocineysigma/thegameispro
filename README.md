@@ -20,5 +20,12 @@ Coloque o arvquivo da versão main.py Em Arquivo do Linux
 ![Tuto6](https://github.com/user-attachments/assets/b41763cd-baa1-4e80-816d-085c13ea5574)
 
 Aparecera essa tela, agora se quiser abrir denovo aperte a lupa e pesquise por "Terminal"
+e clique em "penguin"
 
-e execute
+e execute esse código:
+
+![Tuto7](https://github.com/user-attachments/assets/6570f473-9cbe-46cc-a57b-f79d6a523629)
+
+e você vai poder jogar avontade
+
+![FINISHED TUTO](https://github.com/user-attachments/assets/c8c71524-b926-4e01-a936-1350f3a8e58c)
