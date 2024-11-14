@@ -19,3 +19,6 @@ Coloque 2GB para não usar muita memória e ficar otimizado
 Coloque o arvquivo da versão main.py Em Arquivo do Linux
 ![Tuto6](https://github.com/user-attachments/assets/b41763cd-baa1-4e80-816d-085c13ea5574)
 
+Aparecera essa tela, agora se quiser abrir denovo aperte a lupa e pesquise por "Terminal"
+
+e execute
